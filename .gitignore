@@ -1,3 +1,7 @@
 data/
 .venv/
 __pycache__/
+.idea/
+.venv/
+out/
+out_test/
