@@ -153,6 +153,9 @@ activemq-data/
 .env
 .envrc
 .venv
+results/
+out/
+cropped/
 env/
 venv/
 ENV/
